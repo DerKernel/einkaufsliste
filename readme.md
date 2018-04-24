@@ -1,4 +1,6 @@
 # Lebenslauf
+![Pixelbild](scene.png)
+
 ## Persönliche Informationen
 **Name:** Kegel Welteneroberer
 
